@@ -2,7 +2,7 @@ Here's a simple, natural-looking README template for your task CLI:
 
   # task-cli
 
-  A simple command-line task manager written in Go.
+  A simple command-line task manager written in Go. https://github.com/rokizs51/task-cli
 
   ## Install
 
